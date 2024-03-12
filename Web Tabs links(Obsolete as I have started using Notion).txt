@@ -1,0 +1,227 @@
+THIS LIST IS BASED ON PRIORITY AND ORDER OF ARRANGEMENT OF DOMAINS, NOT THE LINKS.
+
+
+
+College theory stuff
+Dbms:
+	 https://youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU
+	https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y
+OS:
+	 https://youtu.be/3obEP8eLsCw
+	https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p
+	Anuj bhaiya: https://youtu.be/8XBtAjKwCm4
+Computer networking:
+	https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_
+	https://youtu.be/IPvYjXCsTg8
+	https://youtube.com/playlist?list=PL7T06JEc5PF5B5Zgx44kEZW-B0fX41kwZ
+ CN(standalone topics): 
+	https://www.youtube.com/playlist?list=PL-dQ102CNNabGpUi1oMVI85c_aGaeac7H
+Toc: 
+	https://youtube.com/playlist?list=PLxCzCOWd7aiFM9Lj5G9G_76adtyb4ef7i
+	https://youtu.be/14RLvkzbHFc
+
+
+
+
+WebD
+	https://codeburst.io/100-free-resources-to-learn-full-stack-web-development-5b40e0bdf5f2
+	Paid course(do sm jugaad): https://blog.webdevsimplified.com/ 
+	https://blog.webdevsimplified.com/
+	Babbar WebD: https://youtube.com/playlist?list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD
+	MDN: https://developer.mozilla.org/en-US/
+	WebD playlist khud banaya ye: https://www.youtube.com/playlist?list=PL9AedAKNmDw0K_H0uA8BocnmQS5qdlkho
+	https://www.theodinproject.com/
+	https://www.freecodecamp.org/learn/front-end-development-libraries
+	https://htmldog.com/
+	Namaste JS: https://youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
+	Namaste JS Notes: https://alok722.github.io/namaste-javascript-notes/
+	react.dev
+	WEMAKEDEVS ROADMAP: https://github.com/WeMakeDevs/roadmaps/tree/main/Fullstack-Development
+	WEB D resources genie ashwani: https://drive.google.com/file/d/111fmbH004eIAa0449NmZ_XDCvs6NLSd8/view?pli=1
+	Google Lighthouse: https://www.youtube.com/watch?v=VyaHwvPWuZU
+	Fireship: https://www.youtube.com/@Fireship/videos
+	Beyond Fireship: https://www.youtube.com/@beyondfireship/videos
+	CodeDamn for projects: https://codedamn.com/projects
+	Launch website via this: https://supersimple.dev/courses/github-pages-course
+	WebDevSimplified: https://www.youtube.com/@WebDevSimplified/videos
+	(deploys a static website): https://vercel.com/oss
+	https://flexboxfroggy.com/
+	ui/ux stuff	https://youtube.com/playlist?list=PL9AedAKNmDw1QirSxzAGrVU6iLiWVs6hu&si=B7xFwokStzHcp-xh
+	Frontendmentor website: for projects
+
+
+
+DevOps
+	Resources in description(Kubesimplify video): https://www.youtube.com/watch?v=4yRAeXAAHtM	
+	https://www.civo.com/academy
+	Kaiwalya: https://www.youtube.com/playlist?list=PL9v7SxjoNf_zgB11yi9sNSQsVhrOcBfEd
+	Kunal Bootcamp: https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak
+	Kubesimplify: https://www.youtube.com/@kubesimplify/videos
+	Kubesimplify Hindi: https://www.youtube.com/@kshindi
+	https://github.com/WeMakeDevs/roadmaps/tree/main/DevOps
+	https://roadmap.sh/devops
+	https://thedevops.guide/guide/ci-cd
+	https://learntocloud.guide/docs/phase1/
+	90 days of code repo: https://github.com/MichaelCade/90DaysOfDevOps
+	https://devopscube.com/
+	Real-Time Projects for DevOps and Cloud: https://youtube.com/playlist?list=PLdpzxOOAlwvLm5lWlYctUnwaFRIO2Io_5&si=ZDJppHhtvVLD93Ra
+	COMPLETE DEVOPS ZERO TO HERO COURSE: https://youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa&si=hBhIwb5yj_F6IDLR
+
+
+
+
+DataScience 
+	https://apps.cognitiveclass.ai/learning/course/course-v1:BigDataUniversity+DS0101EN+v1/home
+	https://www.youtube.com/@krishnaik06/videos
+	https://365datascience.com/
+	https://github.com/WeMakeDevs/roadmaps/tree/main/Data-Science
+	Google datasets: https://datasetsearch.research.google.com/
+	https://towardsdatascience.com/the-10-best-platforms-and-tools-to-learn-data-science-from-scratch-1d93eef1a32  
+
+
+
+ML 
+	https://developers.google.com/machine-learning/crash-course
+	https://www.freecodecamp.org/learn/machine-learning-with-python/
+	https://www.kaggle.com/learn/intro-to-machine-learning
+	https://www.kaggle.com/learn/intermediate-machine-learning
+	https://www.tensorflow.org/resources/learn-ml
+	https://www.udacity.com/course/intro-to-machine-learning--ud120
+	https://github.com/AssemblyAI-Examples/ML-Study-Guide	
+
+
+
+
+
+
+
+
+
+
+
+Courses 2 complete: 
+	https://www.youtube.com/playlist?list=PL9AedAKNmDw0n9D62oXHsJcHuCRmor5N-
+	
+
+
+My best udemy courses 2 complete
+	https://www.udemy.com/course/nginx-apache-ssl-encryption-certification-course/
+	https://www.udemy.com/course/canva-basic-to-advance-course/
+
+
+
+
+
+System Design 
+	My sys design github repo: https://github.com/stars/rover07/lists/system-design
+	https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes/
+	https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers
+	Roadmap sh:  https://youtube.com/playlist?list=PLkZYeFmDuaN37TGlJ79pWOEIt-XcFa8Ev
+	Gaurav sen: https://youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+	Sudo code: https://youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a
+	PDF: https://onedrive.live.com/?authkey=%21AHfW1J8WjgDwnGk&id=842AECBB531CCEA4%218980&cid=842AECBB531CCEA4&parId=root&parQt=sharedby&parCid=653ED80A8B014377&o=OneUp
+	https://leetcode.com/discuss/career/229177/My-System-Design-Template
+	https://netflixtechblog.com/
+	https://www.uber.com/en-IN/blog/pune/engineering/
+	https://developers.googleblog.com/
+	http://highscalability.com/
+	System design for beginners: https://youtu.be/MbjObHmDbZo
+	System Design Fundamentals: https://youtube.com/playlist?list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf&si=9JOdKDIuOrArhLql
+
+
+
+
+
+Deep Learning
+   http://introtodeeplearning.com/
+
+
+
+
+
+UI/UX
+
+	https://www.uxlibrary.org/
+	Roadmap with all resources: https://indecisive-composer-2b4.notion.site/Get-your-first-job-as-a-UX-Designer-Free-UX-UI-Design-Course-by-Ansh-Mehra-77ae8151a5cd43028fac02b630340de9
+	10 UX Design Resources as good as a UX Design Degree
+ https://www.youtube.com/watch?v=SL0A3huMTHY&ab_channel=AnshMehra
+	UI / UX Design Tutorial – Wireframe, Mockup & Design in Figma
+https://www.youtube.com/watch?v=c9Wg6Cb_YlU&ab_channel=freeCodeCamp.org
+	https://www.udemy.com/course/figma-ux-ui-design-user-experience-tutorial-course/?utm_source=Youtube&utm_medium=Description&utm_campaign=Figma_Long
+	https://appedus.com/color-psychology-app-design/
+	UI Design Crash Course  https://youtube.com/playlist?list=PLl0Umi92CQzUN5ocp0NgNNzj3mbmbL93e
+	Web Design 101: Free Full Course https://youtube.com/playlist?list=PLXC_gcsKLD6n7p6tHPBxsKjN5hA_quaPI
+	Psychology In Graphic Design https://youtube.com/playlist?list=PL-c9Rq56P4KlIGoBe4SqukLal3iqybgYr
+	Graphic Design Theory & Techniques https://youtube.com/playlist?list=PL-c9Rq56P4Km_9gvxoNfVK3Jvh9ynGwgl
+	Flutter UI Tutorial - UI Design Best Practices https://www.youtube.com/playlist?list=PLjOFHn8uDrvQDUiY57tQN39wI_NAey8x1
+	Flutter UI Design https://youtube.com/playlist?list=PLf-j0Hs0PF3uxzMCFLlfJ9W3hRxLzHPGX
+	Complete English Guide to UX/UI Design for Entrepreneurs and Startup Founders https://youtube.com/playlist?list=PLlHtucAD9KT33e6ScNCtgVPS5kXlLOu0O
+	UI/UX Design Livestreams from Zuddl Studio https://youtube.com/playlist?list=PLlHtucAD9KT2oghKfBr3hD9tZR557TAAk
+	UI Redesigns • Practical examples of UI UX Improvements on real apps • UIUX case studies https://youtube.com/playlist?list=PLlHtucAD9KT2oO9i0UkAIfmFErOH_ccbn
+	What is UX/UI Design? Learn Figma for free in Hindi/English https://youtube.com/playlist?list=PLlHtucAD9KT0bD44BokShkbSWO6Wsj4BC
+	Learn UX at $0 in English https://youtube.com/playlist?list=PLlHtucAD9KT3wgeeVqILeW-0rYoQgR1Rh	
+	Springboard Free UX Design Course: https://www.springboard.com/resources/learning-paths/user-experience-design/#50733-getting-started
+	My ui/ux playlist: https://youtube.com/playlist?list=PL9AedAKNmDw1QirSxzAGrVU6iLiWVs6hu&si=vFqO7uSoC_gmw2RR
+
+
+
+
+
+
+Game Dev
+	https://learn.unity.com/courses?k=%5B%22lang%3Aen%22%5D&ob=starts
+	https://dev.epicgames.com/community/unreal-engine/learning
+	https://www.youtube.com/watch?v=C3EPvb633U8&list=WL&index=170
+	https://www.youtube.com/watch?v=Kp63uc2-zYI&list=WL&index=171
+	https://www.youtube.com/watch?v=FOlo8YbV9Ck&list=WL&index=172
+	https://www.youtube.com/watch?v=rJ1iA-33fss&list=WL&index=173
+	https://www.youtube.com/watch?v=aWr95b6e73I&list=WL&index=169
+
+
+
+
+
+Blockchain
+	https://www.summerofbitcoin.org/apply
+	Tech with Tim playlist: https://youtube.com/playlist?list=PLzMcBGfZo4-msMNfRJT5cLSge23P5bqUx
+
+
+
+Ai
+	https://i.am.ai/roadmap/#fundamentals
+	https://www.simplilearn.com/learn-ai-basics-skillup
+
+
+Prompt Engg:
+	https://roadmap.sh/prompt-engineering
+	https://learn.deeplearning.ai/login?redirect_course=chatgpt-prompt-eng
+	https://learnprompting.org/docs/intro
+	https://promptvine.com/
+	https://platform.openai.com/docs/introduction
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+[EXPLORED PARTS STARTS FROM HERE]
+
+
+
+
+
+
+Open Src
+	-Flutter GSOC contribution: 
+		https://youtu.be/QcEXDuQvu_0
+	-GSOC
+ 	 	-https://up-for-grabs.net/#/filters?date=1week&tags=html
+ 	 	-https://summerofcode.withgoogle.com/programs/2023/organizations
+ 	 	-https://www.gsocorganizations.dev/?filters=%7B%22years%22%3A%5B%222023%22%5D%2C%22categories%22%3A%5B%5D%2C%22technologies%22%3A%5B%5D%2C%22topics%22%3A%5B%5D%2C%22shortcuts%22%3A%5B%5D%7D
+  	-https://github.com/firstcontributions/first-contributions
+  	-https://docs.github.com/en/get-started/using-git/about-git
+	  -GSOC roadmap luv: https://youtu.be/8xRwsJ2ahfw
+	Open Src roadmap:  https://github.com/WeMakeDevs/roadmaps/tree/main/Open-Source
+	Open Source BootCamp - Master Open Source Contributions: https://youtube.com/playlist?list=PLinedj3B30sBsmRRL8XyTGadjRGkzRPb7
+	https://opensource.org/category/events/
+	https://docs.ferretdb.io/contributing/
+
+
+
+
+	

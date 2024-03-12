@@ -1,0 +1,762 @@
+searching .
+14.printwhatyoulike.com - Print web pages without the clutter.
+15. joliprint.com -Reformats news articles and blog content as a newspaper.
+16. isnsfw.com - When you wish to share a NSFW page but with a warning.
+17. eggtimer.com - A simple online timer for your daily needs.
+18. coralcdn.org -If a site is down due to heavy traffic, try accessing it through coral CDN.
+19. random.org- Pick random numbers, flip coins, and more.
+20. mywot.com -Check the trust level of any website .
+21. viewer.zoho.com -Preview PDFs and Presentations directly in the browser.
+22. tubemogul.com -Simultaneously upload videos to YouTube and other video sites.
+23. truveo.com - The best place for searching web videos.
+24. scr.im - Share your email address online without worrying about spam.
+25. spypig.com - Now get read receipts for your email.
+26. sizeasy.com -Visualize and compare the size of any product.
+27. whatfontis.com -quickly determine the font name from an image.
+28. fontsquirrel.com -A good collection of fonts  free for personal and commercial use.
+29. regex.info -Find data hidden in your photographs .
+30. tineye.com -This is like an online version of Google Googles.
+31. iwantmyname.com - Helps you search domains across allTLDs.
+32. tabbloid.com -Your favorite blogs delivered as PDFs.
+33. join. me - Share your screen with anyone over the web.
+34. onlineocr.net -Recognize text from scanned PDFs and images â€“ see other OCR tools.
+35. flightstats.com -Track flight status at airports worldwide.
+36. wetransfer.com -For sharing really big files online.
+37. pastebin.com -A temporary onlineclipboard for your text and code snippets.
+38.polishmywriting.com -Check your writing for spelling or grammatical errors.
+39.awesomehighlighter.com - Easily highlight the important parts of a web page.
+40. typewith.me -Work on the same document with multiple people.
+41.whichdateworks.com-Planning an event? Find a date that works for all.
+42. everytimezone.com -A less confusing view of the world time zones.
+43. warrick.cs.odu.edu -You'll need this when your bookmarked web pages are deleted.
+44. gtmetrix.com -The perfect tool for measuring your site performance online.
+45. imo.im -Chat with your buddies on Skype,Facebook, GoogleTalk, etc from one place.
+46.translate.google.com - Translate web pages,PDFs and Office documents.
+47. youtube.com/leanback - Sit back and enjoy YouTube videos in full-screen mode.
+48. similarsites.com -Discover new sites that are similar to what you like already.
+49. wordle.net -Quicksummarize long pieces of text with tag clouds.
+50. bubbl.us -Create mind-maps, brainstorm ideas in the browser.
+51. kuler.adobe.com -Get color ideas, also extract colors
+52. followupthen.com -Setup quick reminders via email itself.
+53. lmgtfy.com -When your friends are too lazy to use Google on their own.
+54. tempalias.com -Generate temporary email aliases, better than disposable email.
+55. pdfescape.com -Lets you can quickly edit PDFs in the browser itself.
+56. faxzero.com -Send an online fax for free see more fax services.
+57. feedmyinbox.com -Get RSS feeds
+Share << @droidpills
+searching .
+
+
+
+
+
+
+https://www.freecodecamp.org/news/2021-new-coder-survey-18000-people-share-how-theyre-learning-to-code/
+
+
+
+
+https://www.jimkwik.com/podcasts/kwik-brain-004-read-1-book-a-week-52-books-a-year-without-speed-reading/
+
+
+
+
+
+11 Tech Skills in demand
+
+3. SEO/SEM Marketing
+5. Data Engineering
+
+
+10 Sites to review your resume for free
+
+1. Zety Resume Builder
+2. Resumonk
+3. Resume dot com
+4. VisualCV
+5. Cvmaker
+6. ResumUP
+7. Resume Genius
+8. Resumebuilder
+9. Resume Baking
+10. Enhancy
+
+
+Top 5 freelancing website
+1. Fiverr.com
+2. Upwork.com
+3. Guru.com
+4. workchest.com
+5. 99designs
+
+Top Site for your Portfolio:
+1. Dribble
+2. Behance etc
+
+
+
+
+
+
+linux system hierarchy(maybe)
+
+| **Command** | **Description** |
+| --------------|-------------------|
+|Â `man <tool>` | Opens man pages for the specified tool. | 
+| `<tool> -h` | Prints the help page of the tool. | 
+| `apropos <keyword>` | Searches through man pages' descriptions for instances of a given keyword. | 
+| `cat` | Concatenate and print files. |
+| `whoami` | Displays current username. | 
+| `id` | Returns users identity. | 
+| `hostname` | Sets or prints the name of the current host system. | 
+| `uname` | Prints operating system name. | 
+| `pwd` | Returns working directory name. | 
+| `ifconfig` | The `ifconfig` utility is used to assign or view an address to a network interface and/or configure network interface parameters. | 
+| `ip` | Ip is a utility to show or manipulate routing, network devices, interfaces, and tunnels. | 
+| `netstat` | Shows network status. | 
+| `ss` | Another utility to investigate sockets. | 
+| `ps` | Shows process status. | 
+| `who` | Displays who is logged in. | 
+| `env` | Prints environment or sets and executes a command. | 
+| `lsblk` | Lists block devices. | 
+| `lsusb` | Lists USB devices. | 
+| `lsof` | Lists opened files. | 
+| `lspci` | Lists PCI devices. | 
+| `sudo` | Execute command as a different user. | 
+| `su` | The `su` utility requests appropriate user credentials via PAM and switches to that user ID (the default user is the superuser).  A shell is then executed. | 
+| `useradd` | Creates a new user or update default new user information. | 
+| `userdel` | Deletes a user account and related files. |
+| `usermod` | Modifies a user account. | 
+| `addgroup` | Adds a group to the system. | 
+| `delgroup` | Removes a group from the system. | 
+| `passwd` | Changes user password. |
+| `dpkg` | Install, remove and configure Debian-based packages. | 
+| `apt` | High-level package management command-line utility. | 
+| `aptitude` | Alternative to `apt`. | 
+| `snap` | Install, remove and configure snap packages. |
+| `gem` | Standard package manager for Ruby. | 
+| `pip` | Standard package manager for Python. | 
+| `git` | Revision control system command-line utility. | 
+| `systemctl` | Command-line based service and systemd control manager. |
+| `ps` | Prints a snapshot of the current processes. | 
+| `journalctl` | Query the systemd journal. | 
+| `kill` | Sends a signal to a process. | 
+| `bg` | Puts a process into background. |
+| `jobs` | Lists all processes that are running in the background. | 
+| `fg` | Puts a process into the foreground. | 
+| `curl` | Command-line utility to transfer data from or to a server. | 
+| `wget` | An alternative to `curl` that downloads files from FTP or HTTP(s) server. |
+| `python3 -m http.server` | Starts a Python3 web server on TCP port 8000. | 
+| `ls` | Lists directory contents. | 
+| `cd` | Changes the directory. |
+| `clear` | Clears the terminal. | 
+| `touch` | Creates an empty file. |
+| `mkdir` | Creates a directory. | 
+| `tree` | Lists the contents of a directory recursively. |
+| `mv` | Move or rename files or directories. | 
+| `cp` | Copy files or directories. |
+| `nano` | Terminal based text editor. | 
+| `which` | Returns the path to a file or link. |
+| `find` | Searches for files in a directory hierarchy. | 
+| `updatedb` | Updates the locale database for existing contents on the system. |
+| `locate` | Uses the locale database to find contents on the system. | 
+| `more` | Pager that is used to read STDOUT or files. |
+| `less` | An alternative to `more` with more features. | 
+| `head` | Prints the first ten lines of STDOUT or a file. |
+| `tail` | Prints the last ten lines of STDOUT or a file. | 
+| `sort` | Sorts the contents of STDOUT or a file. |
+| `grep` | Searches for specific results that contain given patterns. | 
+| `cut` | Removes sections from each line of files. |
+| `tr` | Replaces certain characters. | 
+| `column` | Command-line based utility that formats its input into multiple columns. |
+| `awk` | Pattern scanning and processing language. |
+| `sed` | A stream editor for filtering and transforming text. | 
+| `wc` | Prints newline, word, and byte counts for a given input. |
+| `chmod` | Changes permission of a file or directory. |
+| `chown` | Changes the owner and group of a file or directory. |
+
+
+
+
+
+
+
+1. https://nakamoto.com/a-brief-history-of-money/ - good to start with understanding money as the first step 
+
+
+
+
+
+
+https://www.linkedin.com/posts/javascript-developer_activity-6928252311739748352-Nbhp?utm_source=linkedin_share&utm_medium=android_app
+
+
+
+
+
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+
+
+
+
+
+
+CSE Resources
+
+1) Linux :
+Basic Linux commands are necessary before jumping into shell scripting.
+
+* https://lnkd.in/dBTsJbhz
+* https://lnkd.in/dHQTiHBB
+* https://lnkd.in/dA9pAmHa
+
+2. Shell Scripting:
+
+* https://lnkd.in/da_wHgQH
+* https://lnkd.in/d5CFPgga
+
+3. Python: This will help you in automation
+
+* https://lnkd.in/dFtNz_9D
+* https://lnkd.in/d6cRpFrY
+* https://lnkd.in/d-EhshQz
+
+4. Networking
+
+* https://lnkd.in/dEmZ8zhY
+* https://lnkd.in/dqTx6jmN
+* https://lnkd.in/dRqCzbkn
+
+5. Git & Github
+
+* https://lnkd.in/d9gw-9Ds
+* https://lnkd.in/dEp3KrTJ
+
+6. YAML
+https://lnkd.in/duvmhd5X
+https://lnkd.in/dNqrXjmV
+
+7. Containers — Docker:
+
+* https://lnkd.in/dY2ZswMZ
+* https://lnkd.in/d_EySpbh
+* https://lnkd.in/dPddbJTf
+
+8. Continuous Integration & Continuous Deployment (CI/CD):
+
+* https://lnkd.in/dMHv9T8U
+
+9. Container Orchestration — Kubernetes:
+* https://lnkd.in/duGZwHYX
+
+10. Monitoring:
+
+* https://lnkd.in/dpXhmVqs
+* https://lnkd.in/dStQbpRX
+* https://lnkd.in/de4H5QVz
+* https://lnkd.in/dEtTSsbB
+
+11. Infrastructure Provisioning & Configuration Management (IaC): Terraform, Ansible, Pulumi
+
+* https://lnkd.in/dvpzNT5M
+* https://lnkd.in/dNugwtVW
+* https://lnkd.in/dn5m2NKQ
+* https://lnkd.in/dhknHJXp
+* https://lnkd.in/ddNxd8vU
+
+12. CI/CD Tools: Jenkins, GitHub Actions, GitLab CI, Travis CI, AWS CodePipeline + AWS CodeBuild, Azure DevOps, etc
+
+* https://lnkd.in/dTmSXNzv
+* https://lnkd.in/dAnxpVTe
+* https://lnkd.in/daMFG3Hq
+* https://lnkd.in/dqf-zzrx
+* https://lnkd.in/diWP7Tm7
+* https://lnkd.in/dYDCSiiC
+
+13. AWS:
+
+* https://lnkd.in/dmi-TMv9
+* https://lnkd.in/de3-dAB6
+* https://lnkd.in/dh2zXZAB
+* https://lnkd.in/dQMyCBWy
+
+
+14. Learn how to SSH
+SSH using mobaxterm:
+
+* https://lnkd.in/gx-T_FU8
+
+15. SSH using Putty :
+
+* https://lnkd.in/gGgW7Ns9
+
+
+
+
+
+
+
+18 GitHub repositories every developer should bookmark (high-value resources)
+1. free-programming-books
+A huge list of freely available programming books.
+https://github.com/EbookFoundation/free-programming-books
+2. coding-interview-university
+A complete computer science study plan to become a software engineer.
+https://github.com/jwasham/coding-interview-university.
+3. awesome
+Awesome lists about all kinds of interesting topics.
+https://github.com/sindresorhus/awesome
+4. developer-roadmap
+Up-to-date roadmap to becoming a developer.
+https://github.com/kamranahmedse/developer-roadmap
+5. javascript-algorithms
+Algorithms and data structures implemented in JavaScript with explanations and links.
+https://github.com/trekhleb/javascript-algorithms
+6. node-best-practices
+The Node.js best practices list.
+https://github.com/goldbergyoni/nodebestpractices
+7. tech-interview-handbook
+Curated coding interview preparation materials for software engineers.
+https://github.com/yangshun/tech-interview-handbook
+8. project-based-learning
+A curated list of project-based tutorials.
+https://github.com/practical-tutorials/project-based-learning
+9. 30-seconds-of-code
+Short JavaScript code snippets for all your development needs.
+https://github.com/30-seconds/30-seconds-of-code
+10. free-for-dev
+A list of SaaS, PaaS, and IaaS offerings that have free tiers.
+https://github.com/ripienaar/free-for-dev
+11. javascript-questions
+A long list of advanced JavaScript questions, and their explanations.
+https://github.com/lydiahallie/javascript-questions
+12. design-resources-for-developers
+A list of resources from stock photos, web templates, to frameworks, libraries, and tools.
+https://github.com/bradtraversy/design-resources-for-developers
+13. app-ideas
+A Collection of application ideas that can be used to improve your coding skills.
+https://github.com/florinpop17/app-ideas
+14. build-your-own-x
+Master programming by recreating your favorite technologies from scratch.
+https://github.com/codecrafters-io/build-your-own-x
+15. realworld
+See how the exact same Medium clone is built using different frontends and backends.
+https://github.com/gothinkster/realworld
+16. public-apis
+A collective list of free APIs for use in software and web development.
+https://github.com/public-apis/public-apis
+17. system-design-primer
+Learn how to design large-scale systems. Prep for the system design interview.
+https://github.com/donnemartin/system-design-primer
+18. the-art-of-command-line
+Master the command line, all in one page.
+https://github.com/jlevy/the-art-of-command-line
+
+
+
+
+Found this awesome resource for all coding interviews
+
+Become a DSA k 14 today with these 14 patterns.
+
+DSAka14.com
+
+
+
+
+
+
+Best ChatGPT Alternatives to finish hours of work in seconds 
+
+𝗙𝗼𝗿 𝗪𝗿𝗶𝘁𝗶𝗻𝗴 
+ChatSonic - https://writesonic.com/chat 
+ChatABC - https://chatabc.ai 
+JasperAI - https://www.jasper.ai 
+Quillbot - https://quillbot.com 
+
+𝗙𝗼𝗿 𝗖𝗼𝗱𝗶𝗻𝗴 
+Copilot- https://github.com/features/copilot 
+Tabnine - https://www.tabnine.com 
+MutableAI - https://mutable.ai 
+Safurai - https://www.safurai.com 
+10Web - https://10web.io/ai-website-builder 
+
+𝗙𝗼𝗿 𝗥𝗲𝘀𝗲𝗮𝗿𝗰𝗵 
+Paperpal - https://paperpal.com 
+Perplexity - https://www.perplexity.ai 
+YouChat - https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat 
+Elicit - https://elicit.org 
+
+𝗙𝗼𝗿 𝗧𝘄𝗶𝘁𝘁𝗲𝗿 
+Tweetmonk - https://tweetmonk.com 
+
+Tribescaler - https://tribescaler.com 
+Postwise - https://postwise.ai 
+TweetLify - https://www.tweetlify.co 
+
+𝗙𝗼𝗿 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝘃𝗶𝘁𝘆 
+Synthesia - https://www.synthesia.io 
+Otter - https://otter.ai 
+Bardeen - https://www.bardeen.ai 
+CopyAI - https://www.copy.ai/?via=start 
+
+𝗙𝗼𝗿 𝗖𝗼𝗻𝘁𝗲𝗻𝘁 𝗖𝗿𝗲𝗮𝘁𝗶𝗼𝗻 
+WriteSonic - https://writesonic.com/chat 
+Tome - https://beta.tome.app 
+CopySmith - https://app.copysmith.ai 
+TextBlaze - https://blaze.today 
+
+𝗥𝗲𝘀𝘂𝗺𝗲 𝗕𝘂𝗶𝗹𝗱𝗲𝗿𝘀 
+KickResume - https://www.kickresume.com 
+ReziAI - https://www.rezi.ai 
+ResumeAI - https://www.resumai.com 
+EnhanceCV - https://enhancv.com 
+
+𝗙𝗼𝗿 𝗣𝗿𝗲𝘀𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻𝘀 
+BeautifulAI - https://www.beautiful.ai 
+Simplified - https://simplified.com 
+Slidesgo - https://slidesgo.com 
+Sendsteps - https://www.sendsteps.com/en 
+
+𝗙𝗼𝗿 𝗔𝘂𝗱𝗶𝗼 
+MurfAI - https://murf.ai 
+Speechify - https://speechify.com 
+LovoAI- https://lovo.ai 
+MediaAI- https://www.ai-media.tv
+
+
+
+
+
+Company Career page Links :
+
+1. Capgemini : https://www.capgemini.com/careers/join-us/#size=15
+2. Infosys : https://career.infosys.com/joblist
+3. Wipro : https://careers.wipro.com/careers-home/
+4. Cognizant : https://careers.cognizant.com/global/en
+5. LTI : https://careers.ltimindtree.com/search/
+6.TCS : https://www.tcs.com/careers/india
+7. DXC Technology : https://careers.dxc.com/global/en/home
+8. HCL : https://www.hcltech.com/careers/Careers-in-india
+9. Hashedin : https://hashedin.com/careers/#opportunities
+10. Hexaware : https://jobs.hexaware.com/
+11. Revature : https://int.revature.com/in/
+12. IBM : https://www.ibm.com/careers/in-en/
+13. Nagarro : https://www.nagarro.com/en/careers
+14. Virtusa : https://www.virtusa.com/careers/job-search?role=Technology%2CQA%2CDelivery#search
+15. Zoho : https://lnkd.in/dUw9Qi4B
+16. CGI : https://cgi.njoyn.com/corp/xweb/xweb.asp?CLID=21001&page=joblisting&lang=1
+17. Finastra : https://careers.finastra.com/jobs
+18. FIS : https://careers.fisglobal.com/us/en/c/fis-university-programinterns-jobs
+19. Fiserv : https://fiserv.wd5.myworkdayjobs.com/en-US/EXT
+20. IQVIA : https://jobs.iqvia.com/search-jobs
+21. JIO : https://careers.jio.com/frmJobCategories.aspx?n=1
+22. MAQ Software : https://maqsoftware.com/careers#
+23. Optum: https://careers.unitedhealthgroup.com/job-search-results/
+24. Publicis Sapient : https://careers.publicissapient.com/job-search?&country=India
+25. Geekyants : https://geekyants.com/join-geekyants/
+26. Accolite : https://www.accolite.com/careers/jobs-in-india
+27. Airtel: https://eeji.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions
+28. EA : https://ea.gr8people.com/jobs
+29. Gartner : https://jobs.gartner.com/jobs/
+30. HARMAN : https://www.harman.com/career
+31. Yellow[.]ai : https://jobs.lever.co/yellowai
+32. Seimens : https://jobs.siemens.com/careers
+33. Samsung : https://sec.wd3.myworkdayjobs.com/Samsung_Careers
+34. Vmware : https://careers.vmware.com/careers-home
+35. Adobe https://careers.adobe.com/us/en
+36. Amazon : https://www.amazon.jobs/en-gb/job_categories/software-development
+37. Cadence Design Systems : https://cadence.wd1.myworkdayjobs.com/External_Careers
+38. CleverTap: https://clevertap.com/careers/
+39. Cisco: https://jobs.cisco.com/
+40. Dunzo: https://www.dunzo.com/careers#jobs
+41. FamPay: https://apply.fampay.in/
+42. Flipkart: https://www.flipkartcareers.com/#!/joblist
+43. Google: https://careers.google.com/
+44. Hackererath:https://www.hackerearth.com/careers/
+45. Morgan Sanley:https://www.morganstanley.com/careers/career-opportunities-search
+46. EY: https://www.ey.com/en_in/careers
+47. MyGate:https://mygate.darwinbox.in/ms/candidate/careers
+48. McAfee:https://careers.mcafee.com/global/en
+49. Oracle:https://www.oracle.com/in/careers/
+50. Microsoft:https://careers.microsoft.com/v2/global/en/home.html
+51. PhonePe:https://www.phonepe.com/careers/jobs-by-department/engineering/
+52. PWC : https://www.pwc.com/gx/en/careers/experienced-job-search.html
+53. Rakuten : https://rakuten.openings.co/#!/joblist
+54. Razorpay : https://razorpay.com/jobs/#joinus
+55. SAP: https://jobs.sap.com/?locale=en_US
+56. Media[.]net:https://careers.media.net/engineering/
+57. Twilio: https://www.twilio.com/en-us/company/jobs
+58. Byju’s: https://byjus.com/careers-at-byjus/#join-our-team
+
+
+
+
+
+
+
+
+
+Web Development for Beginners by Microsoft
+
+Authors:  Jen Looper, Chris Noring, Christopher Harrison, Jasmine Greenaway, Yohan Lasorsa, Floor Drees, and sketchnote artist Tomomi Imura
+
+🎬 24 lessons
+
+Azure Cloud Advocates at Microsoft are pleased to offer a 12-week, 24-lesson curriculum all about JavaScript, CSS, and HTML basics. Each lesson includes pre- and post-lesson quizzes, written instructions to complete the lesson, a solution, an assignment and more. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
+
+🔗  Link to course:  https://github.com/microsoft/Web-Dev-For-Beginners
+
+
+
+
+
+
+
+
+Top 20 AI Tools that you need to know apart from ChatGPT. 
+
+1 Beatoven: Beatoven is an AI-powered music creation tool that helps you create unique, royalty-free music. https://www.beatoven.ai/
+2 Cleanvoice: Cleanvoice is an AI-powered tool that automatically edits podcast episodes, making editing a breeze. https://cleanvoice.ai/
+3 Podcastle: Podcastle is an AI-powered tool that helps you create studio-quality recordings from your computer. https://podcastle.ai/
+4 tl;dv : Record & Auto-Summarize your meetings. 
+5 Illustroke: Illustroke is an AI-powered tool that transforms text prompts into vector images, making it easy to create stunning visuals. https://illustroke.com/
+6 Patterned: AI-powered tool that generates perfect patterns for any design, taking the guesswork out of design. https://www.patterned.ai/
+7 Copy : AI-powered tool that generates high-converting copy, making it easy to boost conversions and increase sales. https://www.copy.ai/
+8 CopyMonkey: Create Amazon listings in seconds. http://copymonkey.ai/
+9 Ocoya: Schedule social media content 10x faster. https://www.ocoya.com/
+10 Unbounce Smart Copy: Write high-performing cold emails at scale. https://unbounce.com/
+11 Vidyo: Create short-form videos from long-form content. https://vidyo.ai/
+12 Maverick: Generate personalized videos at scale. https://lnkd.in/dmrkz_ah
+13 Quickchat: AI chatbots for automating customer service. https://www.quickchat.ai/
+14 Puzzle: Build an AI-powered knowledge base for your team and customers. https://www.puzzlelabs.ai/
+15 Soundraw: Create the perfect song. https://soundraw.io/
+16 Cleanup: Remove unwanted objects, defects, people, or text from photos. https://cleanup.pictures/
+17 Resumeworded: Improve your resume and LinkedIn profile. https://lnkd.in/d9EurcnX
+18 Looka: Design your own beautiful brand. https://looka.com/
+19 theresanaiforthat: A comprehensive database of AI tools for every task. https://lnkd.in/dKhqaaF3
+20 descript: A new way to make videos and podcasts. https://lnkd.in/d_Kdj35E
+
+
+
+
+
+
+
+
+❇️ YOUTUBE CHANNEL TO LEARN DEVOPS 
+ 
+⭐️Note: This tutorial should be followed, the way I numbered it. 
+ 
+COMPLETE DEVOPS TUTORIAL: 
+ 
+1. DevOps Pre-requisite 
+ 
+https://lnkd.in/dD9Z_5qA 
+ 
+2. Networking 
+ 
+https://lnkd.in/dEmZ8zhY 
+ 
+https://lnkd.in/dwfmwmA9 
+ 
+3. Linux 
+ 
+https://lnkd.in/d7gzxH5z 
+https://lnkd.in/dr4pjCV3 
+https://lnkd.in/dzTQE4b7 
+ 
+4. Shell scripting 
+ 
+https://lnkd.in/dKrD_up7  
+https://lnkd.in/dJVqMt3Y 
+https://lnkd.in/d7VVbbNJ 
+ 
+5. Git & GitHub 
+
+https://lnkd.in/dEp3KrTJ 
+https://lnkd.in/d6aM7Ek7 
+https://lnkd.in/duksFRgG 
+https://lnkd.in/ddpKXxqt 
+ 
+6. Databases 
+ 
+https://lnkd.in/duMVr4bn  
+https://lnkd.in/dnUQ_uGe 
+ 
+7. Artifact Repository Manager 
+ 
+https://lnkd.in/dgNHs7WD 
+ 
+8. Docker 
+ 
+https://lnkd.in/dPddbJTf  
+https://lnkd.in/dnjHdxPR 
+ 
+9. Jenkins 
+ 
+https://lnkd.in/dMHv9T8U  
+https://lnkd.in/dcynPYYH 
+ 
+10. AWS 
+ 
+https://lnkd.in/dz7d5qEc  
+https://lnkd.in/dmi-TMv9  
+https://lnkd.in/dx-iqVNe 
+ 
+11. SSH 
+ 
+Mobaxterm : 
+ 
+https://lnkd.in/ds7nUhbx 
+ 
+ 
+Putty : 
+ 
+https://lnkd.in/gGgW7Ns9 
+ 
+ 
+12. Yaml 
+ 
+https://lnkd.in/dNqrXjmV 
+https://lnkd.in/dNqrXjmV 
+ 
+13. Kubernetes 
+ 
+https://lnkd.in/duGZwHYX 
+https://lnkd.in/de84ESNv 
+ 
+14. Helm 
+ 
+https://lnkd.in/ds_8WB7G 
+ 
+15. Terraform 
+ 
+https://lnkd.in/dvpzNT5M  
+https://lnkd.in/dRs3YFu3  
+https://lnkd.in/d8nkTj3n 
+ 
+16. Python 
+ 
+https://lnkd.in/d-EhshQz  
+https://lnkd.in/dYjay9ia 
+https://lnkd.in/dFtNz_9D 
+https://lnkd.in/dcYq8nE2 
+ 
+17. Ansible 
+ 
+https://lnkd.in/dGKkrXrA 
+https://lnkd.in/dNugwtVW 
+https://lnkd.in/dhknHJXp 
+ 
+18. Prometheus 
+ 
+https://lnkd.in/dpXhmVqs 
+https://lnkd.in/dStQbpRX 
+ 
+19. Grafana 
+ 
+https://lnkd.in/ddAV7_-p 
+https://lnkd.in/dRwfE7A4
+
+
+
+
+
+
+
+*35 Most Valuable github Repositories for developers*
+
+1. The Algorithms :- https://lnkd.in/dydHTEaP
+
+2. FreeCodeCamp:- https://lnkd.in/dBRbr6Wz
+
+3. Free Programming Books :- https://lnkd.in/dKm2mgNN
+
+4. 100 Days of ML Code :- https://lnkd.in/dzj-MN5p
+
+5. Product Based Learning :- https://lnkd.in/d4B_3tms
+
+6. Public APIs :- https://lnkd.in/dY58xtGz
+
+7. Coding Interview University :- https://lnkd.in/dchNDcET
+
+8. Developer RoadMap :- https://lnkd.in/d3UzUBQa
+
+9. Computer Science :- https://lnkd.in/d6FHYQ8M
+
+10. 30 Seconds of Code :- https://lnkd.in/dWpwpBHM
+
+11. Awesome Python :- https://lnkd.in/d9Td9mKb
+
+12. You Don't Know JS :- https://lnkd.in/dmrzZ_SA
+
+13. HTML, CSS, and JavaScript framework :- https://lnkd.in/deedpQSG
+
+14. TensorFlow :- https://lnkd.in/dVku4kfN
+
+15. Keyboard Shortcuts :- https://lnkd.in/dq9VHCyM
+
+16. Build your own X :- https://lnkd.in/dafvTq8R
+
+17. Design Resources for Developers :-https://lnkd.in/d-XNjxxA
+
+18. App Ideas :- https://lnkd.in/dG42-p5s
+
+19. GitIgnore :- https://lnkd.in/dM6uERnv
+
+20. The Art of Command Line :- https://lnkd.in/dM8YiX_c
+
+21. Tech Interview Handbook :- https://lnkd.in/dQwMM9yu
+
+22. Project Guild lines:- https://lnkd.in/dRe2c6Xs
+
+23. Javascript Algorithm :- https://lnkd.in/dhy2rpjc
+
+24. Effective Engineer :- https://lnkd.in/dcZMrV8N
+
+25. Beautiful Docs :- https://lnkd.in/def2WB7R
+
+26. Complete Python Bootcamp:- https://lnkd.in/da3qd2pG
+
+27. The Book of Secret Knowledge :- https://lnkd.in/dSvTMnyf
+
+28. Awesome cheatsheets for popular programming languages, frameworks and development tools :- https://lnkd.in/d3B65Ksg
+
+29. List of funny and tricky JavaScript examples :- https://lnkd.in/dQAPP7QU
+
+30. Big List of Naughty Strings :- https://lnkd.in/d9sXakkR
+
+31. Node.js best practices :-https://lnkd.in/dJ8wFw4S
+
+32. The mother of all demo apps :- https://lnkd.in/dpEZcgix
+
+33. Javascript Questions :- https://lnkd.in/d9NYQp8v
+
+34. Front-end Checklist:- https://lnkd.in/dhrzhNij
+
+35. You Don't Need :- https://lnkd.in/dJjzGErP
+
+
+
+
+
+
+
+
+https://www.linkedin.com/posts/iamarifalam_google-learning-free-activity-7062984946495234048-GB6L?utm_source=share&utm_medium=member_android courses
+
+
+
+
+
+
+
+
+[5/23, 10:31 AM] r0ver: https://rb.gy/8audq flutter internship
+
+
+
+
+
+

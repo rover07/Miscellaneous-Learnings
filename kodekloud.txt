@@ -1,0 +1,32 @@
+Ye krunga:
+
+after bash basic	https://kodekloud.com/courses/advanced-bash-scripting/	8.25
+after golang	https://kodekloud.com/courses/advanced-golang/	6.50
+definitely	https://kodekloud.com/courses/open-source/	1.50 2x pe dekhunga ye
+definitely	https://kodekloud.com/courses/postman-essentials/	0.75
+=====15 hours+21 =36
+ie 36 hours/4days= 7 hours per day
+
+naam ka kar ye bas:
+
+
+https://kodekloud.com/courses/aws-cloud-practitioner/
+https://kodekloud.com/courses/terraform-cloud/
+https://kodekloud.com/courses/devsecops/  12.75
+after ansible https://kodekloud.com/courses/ansible-advanced-course/    2.75
+will definitely do this	https://kodekloud.com/courses/mastering-generative-ai-with-open-ai/	5hrs
+before interview prep	https://kodekloud.com/courses/argocd/	6hrs
+helm
+maybe at the end	https://kodekloud.com/courses/gke-google-kubernetes-engine/	5+
+at the end	https://kodekloud.com/courses/devops-interview-prep-course/	5.50
+jenkins
+docker
+k8
+terraform
+ansible
+
+
+
+
+
+TASK: segragate courses by date like if 8 then 8/7=1 per day

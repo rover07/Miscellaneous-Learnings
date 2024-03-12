@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "fc4be082945f6dfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c033fd58a2cfe151",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf3388fccc8c19ef",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "personal money_finance plan.png"
+              }
+            }
+          },
+          {
+            "id": "c57bc32c6d176059",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Startup Stuffs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31fefd520d3bc830",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self-Help.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7eb2eda0da870dfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Podcasts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c48815d2e6e2271",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spirituality.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8269c946b7c5cc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e74d548f8b1b1796",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28960e0ebc9d0265",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6546b5463798dc23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6f4815608b7e25fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f203cc6ba9054e97",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6295972602c3b2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a9338823cf379fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Spirituality.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2c304cc3b30d4c0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Spirituality.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d1403b130cd60992",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e601ae09834b63a1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spirituality.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6c48815d2e6e2271",
+  "lastOpenFiles": [
+    "Podcasts.md",
+    "Spirituality.md",
+    "Self-Help.md",
+    "Startup Stuffs.md",
+    "personal money_finance plan.png",
+    "Startup Stuffs"
+  ]
+}

@@ -1,0 +1,25 @@
+IT COURSE
+	Skills
+		Softwarendevelopment
+		Scrum board in Jira
+		Web dev(HTML,CSS,JS,Vue JS,NodeJS, Mongo DB) whats the use of Express JS?
+		Test ( Integration Tests/Automation Unit testing in Jest)
+		
+
+DevOps Course
+	Skills
+		VM
+		Linux
+		Shell Scripting
+		Nexus
+		Container(Docker)
+		Build Automation(Jenkins)
+		AWS
+		Kubernetes
+		Terraform
+		Python
+		Ansible
+		Prometheus 
+		Grafana
+		
+idk maybe more that i missed

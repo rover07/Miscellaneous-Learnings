@@ -1,0 +1,92 @@
+Socials Link:
+twitter: https://twitter.com/VaibhavXyzee
+linked.in: https://www.linkedin.com/in/vaibhav-chauhan-332176235/
+dev.to: https://dev.to/rover07
+medium: https://medium.com/@VaibhavXyzee
+hashnode: https://rover07.hashnode.dev/
+Github: https://github.com/rover07
+peerlist: https://peerlist.io/rover
+stackoverflow: https://stackoverflow.com/users/21421735/vaibhav-chauhan
+
+
+
+
+Starting of with #100DaysOfCode on this incredible day of Independence of my country🇮🇳.
+
+I completed a course on @codedamncom! See my completion certificate https://codedamn.com/certificate/verify/df8c90841f5884aaf28bbdf2221abe83b04421b9 
+Such a great instructor, deserves praise! @piyushgarg_dev 
+
+
+
+
+
+
+
+FLOW:
+	Detailed blog for: https://rover07.hashnode.dev/
+	Write same blog for hashnode(use tag WeMakeDevs while publishing on hashnode), dev.to, medium.(If i cant comy hashnode blogs elsewhere, just publish on hashnode)
+	share blogs+tweets on wemakedevs discord group.
+
+
+
+TWITTER/linked.in/peerlist:
+
+	write summaries mentioning links of hashnode
+
+	What to write about:
+		Stuffs learnt
+		WEMAKEDEVS DOMAINS
+			Productivity
+			Communities
+			Soft Skills
+			Technical writing	
+		Events 
+		Prizes
+		Achievements
+
+
+	Day 01 of #100DaysOfCode
+	Today I have learnt xxxxxxx
+	xxxxxxxxxxxxxx
+	#xxxxxxxxx
+
+	@WeMakeDevs @hashnode @(mention relevant ppl too)
+	#100DaysOfCode #DSA #ProofofConcept #ProofofWork #BuildInPublic #LearnInPublic #leetcode #StriversA2ZDSA #OpenSourceWithKunal +(relevant tags)
+	Full Blog: https://rover07.hashnode.dev/
+
+
+
+	TIP:
+	Write small tweets for challenges 
+	Write threads(add hooks for audience engagement) too for content Eg.my favourite repos, tools, browser extensions, Share collected materials etc. 
+
+
+
+
+
+
+TEMPLATE(HASHNODE):
+	write 
+	provide repos wherever needed
+	#WeMakeDevs #100daysofcode
+
+
+
+Github:
+	give refrence of blogs,tutorials,tools used,relevant stuff,etc in repo regarding project 
+
+
+
+FUTURE GOALS: 
+	Apply for CFP's
+	Post reels+shorts (tech related)
+	Teach on youtube, mon.school, codedamn, scaler, coding blocks, udemy, ztm, reskilll,aws reskill, coursera, skillshare, edx, edureka, udacity  
+	TEACH IN ST JOSEPH ABOUT COMPUTER SCIENCE
+		(check this out to design courses: https://didolores.medium.com/8-online-teaching-platforms-that-will-make-you-want-to-teach-online-1b9b23dc2503)
+	Podcast with devrels and techies like Eddie Jaoudel,etc
+	freelance on:fiver, upwork,toptal
+
+
+	after #100daysofcode- i'll go to camp cycle exploration or elsewhere
+	then comes #100daysofopensource
+	then maybe idk(think hard later not until previous stuff is done)
