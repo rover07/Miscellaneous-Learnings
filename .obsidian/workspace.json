@@ -59,7 +59,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spirituality.md",
+                "file": "Startup Stuffs.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spirituality.md",
+                "file": "Startup Stuffs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spirituality.md",
+                "file": "Startup Stuffs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spirituality.md"
+                "file": "Startup Stuffs.md"
               }
             }
           }
@@ -195,8 +195,8 @@
   },
   "active": "6c48815d2e6e2271",
   "lastOpenFiles": [
-    "Podcasts.md",
     "Spirituality.md",
+    "Podcasts.md",
     "Self-Help.md",
     "Startup Stuffs.md",
     "personal money_finance plan.png",
