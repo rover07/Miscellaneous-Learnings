@@ -59,14 +59,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Startup Stuffs.md",
+                "file": "Podcasts.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "acd2fd0c55cd5cdb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Startup Stuffs.md",
+                "file": "Podcasts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Startup Stuffs.md",
+                "file": "Podcasts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Startup Stuffs.md"
+                "file": "Podcasts.md"
               }
             }
           }
@@ -193,13 +203,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c48815d2e6e2271",
+  "active": "acd2fd0c55cd5cdb",
   "lastOpenFiles": [
-    "Spirituality.md",
-    "Podcasts.md",
     "Self-Help.md",
-    "Startup Stuffs.md",
     "personal money_finance plan.png",
+    "Podcasts.md",
+    "Startup Stuffs.md",
+    "Spirituality.md",
     "Startup Stuffs"
   ]
 }
