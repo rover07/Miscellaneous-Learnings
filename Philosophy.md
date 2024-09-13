@@ -1,0 +1,45 @@
+# Master Links
+- Stanford Open Edu
+- MIT open courseware
+- Harvard Open
+- EdX
+- Coursera
+- https://plato.stanford.edu/
+- https://dailynous.com/
+- https://www.reddit.com/r/philosophy/
+- https://www.reddit.com/r/askphilosophy/
+- https://www.reddit.com/r/PhilosophyMemes/
+# Channels
+- [Unsolicited advice](https://www.youtube.com/@unsolicitedadvice9198/playlists)
+- [Chomsky](https://www.youtube.com/@chomskysphilosophy)
+- [Manufacturing Intellect](https://www.youtube.com/@ManufacturingIntellect)
+- [Philosophies for life](https://www.youtube.com/@PhilosophiesforLife)
+- [ Philosophize This!](https://www.youtube.com/@philosophizethispodcast)
+- [Pursuit of Wonder](https://www.youtube.com/@PursuitofWonder)
+- [Philosophy Overdose](https://www.youtube.com/@Philosophy_Overdose)
+- [Desi Philosopher](https://www.youtube.com/@DesiPhilosopher748)
+- [teachphilosophy](https://www.youtube.com/@teachphilosophy)
+- [Then & Now](https://www.youtube.com/@ThenNow)
+- [The Royal Institute of Philosophy](https://www.youtube.com/@TheRoyalInstituteofPhilosophy)
+- [Pursuit of Wonder](https://www.youtube.com/@PursuitofWonder)
+-  [The Partially Examined Life](https://www.youtube.com/@ThePartiallyExaminedLife)
+- [Michael Sugrue](https://www.youtube.com/@dr.michaelsugrue)
+- [The Living Philosophy](https://www.youtube.com/@TheLivingPhilosophy)
+- [Hermitix Podcast](https://www.youtube.com/@hermitixpodcast)
+- [Gregory B. Sadler](https://www.youtube.com/@GregoryBSadler)
+- [Eternalised](https://www.youtube.com/@Eternalised)
+- [Einzelgänger](https://www.youtube.com/@Einzelg%C3%A4nger)
+- [The School of Life](https://www.youtube.com/@theschooloflifetv)
+# Playlists
+- [THE PHILOSOPHY OF EVERYTHING: Deeper Meaning In What We Love (By Wisecrack)](https://youtube.com/playlist?list=PLghL9V9QTN0jve4SE0fs33K1VEoXyL-Mn&si=YnQGi1XmrWFuvwcO)
+- [Arthur Holmes: A History of Philosophy](https://www.youtube.com/playlist?list=PL9GwT4_YRZdBf9nIUHs0zjrnUVl-KBNSM)
+- [A History of Philosophy by Dr. Taimur Rehman](https://www.youtube.com/playlist?list=PL2pujzRvzWOaWdMOYZX7cqrDilnifhpo0)
+- [Introduction to Political Philosophy with Steven B. Smith](https://www.youtube.com/playlist?list=PL8D95DEA9B7DFE825)
+- [Philosophy Lecture: Justice (Harvard University)](https://www.youtube.com/playlist?list=PL72C62342291D5DAE)
+- [पाश्चात्य दर्शन Western Philosophy - Dr Himmat Singh Sinha Kurukshetra - The Quest](https://www.youtube.com/playlist?list=PLxYDMSdfTAgSE1Db2hBO_NNiXSS9uZL5B)
+# Indian Philosophy
+- [Humanities and Social Sciences - Indian Philosophy (by NPTEL)](https://www.youtube.com/playlist?list=PLbMVogVj5nJQ2peNt_XPOq0qtLR5NMv4R)
+- [Indian Philosophy (by CEC-UGC)](https://www.youtube.com/playlist?list=PLNsppmbLKJ8KUxbiDeYrzSo-OnBjEIQbR)
+- [भारतीय दर्शन INDIAN PHILOSOPHY - Dr Himmat Singh Sinha Kurukshetra - The Quest](https://www.youtube.com/playlist?list=PLxYDMSdfTAgR7-Z-tpZdzDNqF7fHg6vZT)
+- [philosophy (by Vikas Divyakriti)](https://www.youtube.com/playlist?list=PLp80mCapmB0E9kkcZ3zWpBfHFkHueZNd9)
+- 
